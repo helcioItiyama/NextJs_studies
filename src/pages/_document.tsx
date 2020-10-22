@@ -47,5 +47,5 @@ export default class MyDocument extends Document {
   }
 }
 
-//Main renders the
+//Main renders the component content
 //NextScript loads scripts from JavaScript;
